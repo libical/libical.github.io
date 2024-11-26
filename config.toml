@@ -19,7 +19,7 @@ highlight_code = true
 [extra]
 # Put all your custom variables here
 edit_page = false
-docs_repo = "https://github.com/libical/io.github.libical"
+docs_repo = "https://github.com/libical/libical.github.io"
 repo_branch = "main"
 
 [extra.footer]

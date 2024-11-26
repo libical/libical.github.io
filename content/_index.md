@@ -7,9 +7,9 @@ title = "The iCalendar library"
 lead = '<b>libical</b> is an Open Source implementation of the iCalendar protocols and protocol data units.'
 url = "/docs/getting-started/introduction/"
 url_button = "Get started"
-repo_version = "v3.0.18"
+repo_version = "@version@"
 repo_license = "MPL v2.0 or LGPL v2.1 —"
-repo_url = "https://github.com/aaranxu/adidoks"
+repo_url = "https://github.com/libical/libical/"
 
 # Menu items
 [[extra.menu.main]]
