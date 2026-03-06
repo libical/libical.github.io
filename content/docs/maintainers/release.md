@@ -15,7 +15,7 @@ top = false
 +++
 
 ### Preparations Checklist
-* [[update zoneinfo|For-the-Maintainers:-Update-Zoneinfo]], if needed
+* [Update zoneinfo](@/docs/maintainers/update-zoneinfo.md), if needed
 * Builds ok on all supported platforms (no [Github Actions](https://github.com/libical/libical/actions) failures)
 * Passes all regression tests
 * Fix all compile warnings
