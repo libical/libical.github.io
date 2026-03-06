@@ -7,6 +7,7 @@ draft = false
 weight = 410
 sort_by = "weight"
 template = "docs/page.html"
+path = "contributing"
 
 [extra]
 lead = "Follow the project and contribute."

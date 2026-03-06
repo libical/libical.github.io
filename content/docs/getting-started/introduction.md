@@ -7,6 +7,8 @@ draft = false
 weight = 10
 sort_by = "weight"
 template = "docs/page.html"
+path = "docs"
+aliases = ["/docs", "/docs/developer", "/docs/developer/v3", "/docs/developer/v4"]
 
 [extra]
 lead = 'Libical is an Open Source implementation of the iCalendar protocols and protocol data units. The iCalendar specification describes how calendar clients can communicate with calendar servers so users can store their calendar data and arrange meetings with other users. '
@@ -20,10 +22,18 @@ One page summary of how to start with the library. [Quick Start →](@/docs/gett
 
 ## Contributing
 
-Find out how to contribute to. [Contributing →](@docs/contributing/get-involved.md)
+Find out how to contribute to. [Contributing →](@/docs/contributing/get-involved.md)
 
 ## Developer references
 
-[libical Reference Documentation →](../../developer/libical/)
+### Version 4
 
-[libical-glib Reference Documentation →](../../developer/libical-glib/)
+[libical Reference Documentation →](@/docs/developer/v4/libical.md)
+
+[libical-glib Reference Documentation →](@/docs/developer/v4/libical-glib.md)
+
+### Version 3
+
+[libical Reference Documentation →](@/docs/developer/v3/libical.md)
+
+[libical-glib Reference Documentation →](@/docs/developer/v3/libical-glib.md)

@@ -20,6 +20,6 @@ Clone the website:
 git clone https://github.com/libical/libical.github.io.git
 ```
 
-Open the file in `.github/workflows/main.yml` and update `LATEST_VERSION` to the
-new version. Commit and push to the repository to trigger a website and
+Open the file in `.github/workflows/main.yml` and update `LATEST_VERSION_3` and/or
+`LATEST_VERSION_4` to the new version. Commit and push to the repository to trigger a website and
 documentation update.

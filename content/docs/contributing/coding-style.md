@@ -7,6 +7,7 @@ draft = false
 weight = 420
 sort_by = "weight"
 template = "docs/page.html"
+path = "contributing/coding-style"
 
 [extra]
 lead = "Follow these Coding Style Rules. Strictly Enforced.  The relevant GNU indent options are in parens."
