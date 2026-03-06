@@ -7,5 +7,7 @@ draft = false
 weight = 30
 sort_by = "weight"
 template = "docs/page.html"
+path = "docs/v4/libical/"
+aliases = ["/docs/latest/libical"]
 +++
 

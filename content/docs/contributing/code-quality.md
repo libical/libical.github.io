@@ -7,6 +7,7 @@ draft = false
 weight = 420
 sort_by = "weight"
 template = "docs/page.html"
+path = "contributing/code-quality/"
 
 [extra]
 lead = "Ensuring good overall code quality."
@@ -64,5 +65,5 @@ By the way, [cppcheck](http://cppcheck.sourceforge.net) is another tool I like f
 
 #### API Documentation ####
 
-We use [Doxygen](http://www.doxygen.org) to generate our [API Documentation](@/docs/developer/libical.md) and put the result on our [GitHub provided webspace](http://libical.github.io).  At this time our API Documentation is horrible and needs a lot of attention (see [libical#175](https://github.com/libical/libical/issues/175)), so one of our long term goals is to get the API Documentation into shape with full coverage.
+We use [Doxygen](http://www.doxygen.org) to generate our [API Documentation](@/docs/developer/v4/libical.md) and put the result on our [GitHub provided webspace](http://libical.github.io).  At this time our API Documentation is horrible and needs a lot of attention (see [libical#175](https://github.com/libical/libical/issues/175)), so one of our long term goals is to get the API Documentation into shape with full coverage.
 
